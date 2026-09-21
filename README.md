@@ -12,3 +12,4 @@ https://lovable.dev/es/
 https://core.telegram.org/mtproto
 https://developers.cloudflare.com/r2/api/s3/presigned-urls/
 https://x.com/poteto/status/2102050467505430555
+https://developers.cloudflare.com/r2/api/s3/presigned-urls/
